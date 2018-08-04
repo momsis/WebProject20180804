@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.momsis.co.kr	TRUE	/	FALSE	1999999999	PHPSESSID	37b1e54aa2e771361d0d13062b31d2f6
+www.momsis.co.kr	TRUE	/	FALSE	1999999999	f33d2ed86bd82d4c22123c9da444d8ab	MTUzMzI5OTIwMg%3D%3D
+www.momsis.co.kr	TRUE	/	FALSE	1999999999	96b28b766b7e0699aa91c9ff3d890663	aHR0cDovL3d3dy5tb21zaXMuY28ua3Iv
+www.momsis.co.kr	TRUE	/	FALSE	1999999999	2a0d2363701f23f8a75028924a3af643	MTIxLjE5MC40OS4yMDI%3D
+
